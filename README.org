@@ -1,6 +1,5 @@
-#+TITLE: README
+#+TITLE: misc-hacks
 
-* misc-hacks
 Collection of hacks that don't really belong in dedicated repos.
 
 ** Firefox
