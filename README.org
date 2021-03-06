@@ -1,0 +1,8 @@
+#+TITLE: README
+
+* misc-hacks
+Collection of hacks that don't really belong in dedicated repos.
+
+** Firefox
+Using the [[manilarome/blurredfox][manilarome/blurredfox]], with a small modification in userChrome.csss to
+remove the tabs at the top, since I'm using the [[https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/][tree style tab plugin]].
